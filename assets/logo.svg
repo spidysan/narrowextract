@@ -1,7 +1,6 @@
 <svg width="600" height="200" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
   <rect x="200" y="60" width="64" height="64" rx="14" fill="#6C63FF"/>
   <text x="232" y="105" font-size="36" font-family="Arial" font-weight="500" fill="white" text-anchor="middle">N</text>
-  <text x="282" y="103" font-size="36" font-family="Arial" font-weight="500" fill="#111">Narrow<tspan fill="#6C63FF">Extract</tspan></text>
+  <text x="282" y="103" font-size="36" font-family="Arial" font-weight="500" fill="white">Narrow<tspan fill="#a78bfa">Extract</tspan></text>
   <text x="284" y="126" font-size="13" font-family="monospace" fill="#6C63FF">document extraction · local AI</text>
 </svg>
- 
